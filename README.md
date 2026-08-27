@@ -8,3 +8,6 @@ The Resistances for each resistor were included in the data sheet for a 12v 2A a
 I plan for this to have two layers the bottom with all of the ICs and then a second PCB for all of the connectors. 
 The Pololu board will be soldered onto the bottom layer PCB. 
 The preferred connector for everything will be WAGO quick connects. 
+Each connector will have an LED in series to display status.
+All resistors are 0201 (0603 Metric) sizing standard. 
+All capacitors are Ceramic Capacitor 0402 (1005 Metric). 
