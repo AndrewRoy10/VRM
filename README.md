@@ -9,5 +9,6 @@ I plan for this to have two layers the bottom with all of the ICs and then a sec
 The Pololu board will be soldered onto the bottom layer PCB. 
 The preferred connector for everything will be WAGO quick connects. 
 Each connector will have an LED in series to display status.
-All resistors are 0201 (0603 Metric) sizing standard. 
-All capacitors are Ceramic Capacitor 0402 (1005 Metric). 
+All resistors are 1206 sizing standard. 
+All capacitors are 1206 sizing standard. 
+All Diodes are 1206 sizing standard
